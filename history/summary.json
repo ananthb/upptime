@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 208,
-    "timeWeek": 254,
-    "timeMonth": 255,
-    "timeYear": 240,
+    "time": 245,
+    "timeDay": 516,
+    "timeWeek": 310,
+    "timeMonth": 260,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/futuraphysio.com.ico",
     "slug": "futura-physio",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 5670,
-    "timeDay": 5914,
-    "timeWeek": 6811,
-    "timeMonth": 5398,
-    "timeYear": 5670,
-    "dailyMinutesDown": {
-      "2024-08-13": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5602,
+    "timeDay": 6337,
+    "timeWeek": 6887,
+    "timeMonth": 5091,
+    "timeYear": 5602,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lila Arts Centre",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lilaartscentre.com.ico",
     "slug": "lila-arts-centre",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 5449,
-    "timeDay": 1019,
-    "timeWeek": 6458,
-    "timeMonth": 5828,
-    "timeYear": 5449,
-    "dailyMinutesDown": {
-      "2024-08-13": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5525,
+    "timeDay": 5581,
+    "timeWeek": 7567,
+    "timeMonth": 5832,
+    "timeYear": 5525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shakthi Palace",
@@ -69,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 222,
+    "timeDay": 203,
     "timeWeek": 188,
-    "timeMonth": 197,
+    "timeMonth": 198,
     "timeYear": 196,
     "dailyMinutesDown": {}
   }
