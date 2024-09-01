@@ -22,10 +22,10 @@
     "url": "https://futuraphysio.com",
     "icon": "https://icons.duckduckgo.com/ip3/futuraphysio.com.ico",
     "slug": "futura-physio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5155,
@@ -33,14 +33,16 @@
     "timeWeek": 3666,
     "timeMonth": 4621,
     "timeYear": 5155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 1
+    }
   },
   {
     "name": "Lila Arts Centre",
     "url": "https://lilaartscentre.com",
     "icon": "https://icons.duckduckgo.com/ip3/lilaartscentre.com.ico",
     "slug": "lila-arts-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 3592,
     "timeMonth": 4495,
     "timeYear": 5037,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 0
+    }
   },
   {
     "name": "Shakthi Palace",
