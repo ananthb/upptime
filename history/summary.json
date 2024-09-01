@@ -22,19 +22,19 @@
     "url": "https://futuraphysio.com",
     "icon": "https://icons.duckduckgo.com/ip3/futuraphysio.com.ico",
     "slug": "futura-physio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.89%",
-    "time": 5155,
-    "timeDay": 939,
-    "timeWeek": 3666,
-    "timeMonth": 4621,
-    "timeYear": 5155,
+    "time": 5227,
+    "timeDay": 5950,
+    "timeWeek": 4578,
+    "timeMonth": 4808,
+    "timeYear": 5227,
     "dailyMinutesDown": {
-      "2024-09-01": 117
+      "2024-09-01": 124
     }
   },
   {
