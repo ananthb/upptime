@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/futuraphysio.com.ico",
     "slug": "futura-physio",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.89%",
     "time": 5155,
     "timeDay": 939,
     "timeWeek": 3666,
     "timeMonth": 4621,
     "timeYear": 5155,
     "dailyMinutesDown": {
-      "2024-09-01": 1
+      "2024-09-01": 117
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://lilaartscentre.com",
     "icon": "https://icons.duckduckgo.com/ip3/lilaartscentre.com.ico",
     "slug": "lila-arts-centre",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5037,
-    "timeDay": 1167,
-    "timeWeek": 3592,
-    "timeMonth": 4495,
-    "timeYear": 5037,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.89%",
+    "time": 5190,
+    "timeDay": 9161,
+    "timeWeek": 5287,
+    "timeMonth": 4879,
+    "timeYear": 5190,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 115
     }
   },
   {
