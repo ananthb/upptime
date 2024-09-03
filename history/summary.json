@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 151,
-    "timeWeek": 301,
-    "timeMonth": 267,
+    "timeDay": 267,
+    "timeWeek": 311,
+    "timeMonth": 266,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "futura-physio",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "91.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.89%",
-    "time": 5175,
-    "timeDay": 5943,
-    "timeWeek": 4606,
-    "timeMonth": 4814,
-    "timeYear": 5175,
+    "time": 5244,
+    "timeDay": 10959,
+    "timeWeek": 4615,
+    "timeMonth": 4779,
+    "timeYear": 5244,
     "dailyMinutesDown": {
       "2024-09-01": 124
     }
@@ -44,15 +44,15 @@
     "slug": "lila-arts-centre",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "91.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.89%",
-    "time": 5140,
-    "timeDay": 9173,
-    "timeWeek": 5315,
-    "timeMonth": 4886,
-    "timeYear": 5140,
+    "time": 5202,
+    "timeDay": 10122,
+    "timeWeek": 5366,
+    "timeMonth": 4968,
+    "timeYear": 5202,
     "dailyMinutesDown": {
       "2024-09-01": 115
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 159,
-    "timeWeek": 175,
-    "timeMonth": 182,
-    "timeYear": 192,
+    "time": 191,
+    "timeDay": 130,
+    "timeWeek": 173,
+    "timeMonth": 181,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
