@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 267,
-    "timeWeek": 311,
-    "timeMonth": 266,
-    "timeYear": 250,
+    "time": 249,
+    "timeDay": 189,
+    "timeWeek": 316,
+    "timeMonth": 261,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.89%",
-    "time": 5244,
-    "timeDay": 10959,
-    "timeWeek": 4615,
-    "timeMonth": 4779,
-    "timeYear": 5244,
+    "time": 5311,
+    "timeDay": 10820,
+    "timeWeek": 5854,
+    "timeMonth": 5069,
+    "timeYear": 5311,
     "dailyMinutesDown": {
       "2024-09-01": 124
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lilaartscentre.com.ico",
     "slug": "lila-arts-centre",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.89%",
-    "time": 5202,
-    "timeDay": 10122,
-    "timeWeek": 5366,
-    "timeMonth": 4968,
-    "timeYear": 5202,
+    "uptimeYear": "99.90%",
+    "time": 5261,
+    "timeDay": 10083,
+    "timeWeek": 6470,
+    "timeMonth": 5237,
+    "timeYear": 5261,
     "dailyMinutesDown": {
       "2024-09-01": 115
     }
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 130,
-    "timeWeek": 173,
+    "timeDay": 185,
+    "timeWeek": 171,
     "timeMonth": 181,
     "timeYear": 191,
     "dailyMinutesDown": {}
