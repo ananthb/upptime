@@ -42,7 +42,7 @@
     "url": "https://lilaartscentre.com",
     "icon": "https://icons.duckduckgo.com/ip3/lilaartscentre.com.ico",
     "slug": "lila-arts-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 5026,
     "timeYear": 5150,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-09-01": 115
     }
   },
