@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 251,
-    "timeWeek": 217,
+    "time": 246,
+    "timeDay": 149,
+    "timeWeek": 200,
     "timeMonth": 260,
-    "timeYear": 247,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.90%",
-    "time": 5467,
-    "timeDay": 10824,
-    "timeWeek": 8898,
-    "timeMonth": 5529,
-    "timeYear": 5467,
+    "time": 5416,
+    "timeDay": 851,
+    "timeWeek": 7454,
+    "timeMonth": 5123,
+    "timeYear": 5416,
     "dailyMinutesDown": {
       "2024-09-01": 124
     }
@@ -44,17 +44,16 @@
     "slug": "lila-arts-centre",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.90%",
-    "time": 5104,
-    "timeDay": 1289,
-    "timeWeek": 4745,
-    "timeMonth": 4912,
-    "timeYear": 5104,
+    "time": 5061,
+    "timeDay": 1212,
+    "timeWeek": 3638,
+    "timeMonth": 4336,
+    "timeYear": 5061,
     "dailyMinutesDown": {
-      "2024-09-09": 9,
       "2024-09-01": 115
     }
   },
@@ -69,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 155,
-    "timeWeek": 194,
-    "timeMonth": 185,
-    "timeYear": 192,
+    "time": 193,
+    "timeDay": 245,
+    "timeWeek": 211,
+    "timeMonth": 187,
+    "timeYear": 193,
     "dailyMinutesDown": {}
   }
 ]
