@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 582,
-    "timeWeek": 279,
-    "timeMonth": 258,
-    "timeYear": 250,
+    "time": 251,
+    "timeDay": 337,
+    "timeWeek": 298,
+    "timeMonth": 261,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "futura-physio",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.89%",
-    "time": 5391,
-    "timeDay": 5983,
-    "timeWeek": 5483,
-    "timeMonth": 5011,
-    "timeYear": 5391,
+    "time": 5449,
+    "timeDay": 10993,
+    "timeWeek": 5917,
+    "timeMonth": 5182,
+    "timeYear": 5449,
     "dailyMinutesDown": {
       "2024-09-13": 16,
       "2024-09-01": 124
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.91%",
-    "time": 5111,
-    "timeDay": 1223,
-    "timeWeek": 5049,
-    "timeMonth": 4358,
-    "timeYear": 5111,
+    "time": 5160,
+    "timeDay": 9705,
+    "timeWeek": 4804,
+    "timeMonth": 4516,
+    "timeYear": 5160,
     "dailyMinutesDown": {
       "2024-09-01": 115
     }
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 228,
-    "timeWeek": 202,
-    "timeMonth": 189,
+    "timeDay": 158,
+    "timeWeek": 197,
+    "timeMonth": 188,
     "timeYear": 193,
     "dailyMinutesDown": {}
   }
