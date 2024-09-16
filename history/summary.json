@@ -63,17 +63,19 @@
     "url": "https://shakthipalace.com",
     "icon": "https://icons.duckduckgo.com/ip3/shakthipalace.com.ico",
     "slug": "shakthi-palace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 208,
-    "timeWeek": 205,
-    "timeMonth": 189,
+    "timeDay": 179,
+    "timeWeek": 198,
+    "timeMonth": 187,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   }
 ]
