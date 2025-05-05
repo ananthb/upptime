@@ -21,17 +21,20 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.kedi.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Uptime Monitor and Status Page"
+  logoUrl: https://raw.githubusercontent.com/ananthb/upptime/master/assets/icon.png
+  name: UPMON
+  introTitle: >
+    Ananth's Uptime Monitor
   introMessage: >
     Join the [Telegram Channel](https://t.me/+RyUlNeiXWR8wYWM1)
-    for instant updates.
+    to get notified when a site goes down.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/ananthb/upptime
+    - title: Issues
+      href: https://github.com/ananthb/upptime/issues
+    - title: Notifications
+      href: https://t.me/+RyUlNeiXWR8wYWM1
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
