@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: /dev/human blog
     url: https://devhuman.net
+  - name: TV
+    url: https://tv.tail42937.ts.net
   - name: Futura Physio
     url: https://futuraphysio.com
   - name: Lila Arts Centre
@@ -25,7 +27,7 @@ status-website:
   introTitle: >
     Ananth's Uptime Monitor
   introMessage: >
-    Join the [Telegram Channel](https://t.me/+RyUlNeiXWR8wYWM1)
+    Join the [Telegram Channel](https://t.me/upptime_kedi)
     to get notified when a site goes down.
   navbar:
     - title: Status
@@ -33,7 +35,7 @@ status-website:
     - title: Issues
       href: https://github.com/ananthb/upptime/issues
     - title: Notifications
-      href: https://t.me/+RyUlNeiXWR8wYWM1
+      href: https://t.me/upptime_kedi
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
