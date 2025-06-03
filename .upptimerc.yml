@@ -34,8 +34,6 @@ status-website:
       href: /
     - title: Issues
       href: https://github.com/ananthb/upptime/issues
-    - title: Notifications
-      href: https://t.me/upptime_kedi
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
