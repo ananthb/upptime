@@ -5,10 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: /dev/human blog
     url: https://devhuman.net
-  - name: TV
-    url: https://tv.tail42937.ts.net
-  - name: 6A
-    url: https://6a.tail42937.ts.net
   - name: Futura Physio
     url: https://futuraphysio.com
   - name: Lila Arts Centre
@@ -19,6 +15,15 @@ sites:
     url: https://drvibhu.com
   - name: Bhaskar's Blog
     url: https://bhaskararaman.com
+
+  - name: Mon
+    url: https://mon.tail42937.ts.net
+  - name: TV
+    url: https://tv.tail42937.ts.net
+  - name: 6A
+    url: https://6a.tail42937.ts.net
+  - name: See
+    url: https://see.tail42937.ts.net
 
 status-website:
   theme: night
