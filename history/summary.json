@@ -166,7 +166,7 @@
     "slug": "tv",
     "status": "up",
     "uptime": "83.31%",
-    "uptimeDay": "16.62%",
+    "uptimeDay": "16.64%",
     "uptimeWeek": "44.74%",
     "uptimeMonth": "83.11%",
     "uptimeYear": "83.31%",
@@ -208,7 +208,7 @@
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-07-06": 655,
+      "2025-07-06": 656,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
