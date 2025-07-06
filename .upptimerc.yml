@@ -35,9 +35,6 @@ status-website:
   name: UPMON
   introTitle: >
     Ananth's Uptime Monitor
-  introMessage: >
-    Join the [Telegram Channel](https://t.me/upptime_kedi)
-    to get notified when a site goes down.
   navbar:
     - title: Status
       href: /
