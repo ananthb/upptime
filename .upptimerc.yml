@@ -24,8 +24,8 @@ sites:
     url: https://6a.tail42937.ts.net
   - name: See
     url: https://see.tail42937.ts.net
-  - name: Borked
-    url: https://boroed.tail42937.ts.net
+  - name: Brokwn
+    url: https://broken.tail42937.ts.net
 
 status-website:
   theme: night
