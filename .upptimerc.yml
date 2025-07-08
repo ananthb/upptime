@@ -3,6 +3,7 @@ owner: ananthb # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  # Cloud
   - name: /dev/human blog
     url: https://devhuman.net
   - name: Futura Physio
@@ -16,8 +17,7 @@ sites:
   - name: Bhaskar's Blog
     url: https://bhaskararaman.com
 
-  - name: Mon
-    url: https://mon.tail42937.ts.net
+  # Local
   - name: TV
     url: https://tv.tail42937.ts.net
   - name: 6A
