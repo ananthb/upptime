@@ -24,8 +24,6 @@ sites:
     url: https://see.tail42937.ts.net
   - name: 6A
     url: https://6a.tail42937.ts.net
-  - name: T1
-    url: https://t1.tail42937.ts.net
 
 status-website:
   theme: night
