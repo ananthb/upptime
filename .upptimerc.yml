@@ -1,0 +1,36 @@
+# Change these first
+owner: ananthb # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
+
+sites:
+  - name: Mon
+    url: https://mon.tail42937.ts.net
+  - name: /dev/human blog
+    url: https://devhuman.net
+  - name: Futura Physio
+    url: https://futuraphysio.com
+  - name: Lila Arts Centre
+    url: https://lilaartscentre.com
+  - name: Shakthi Palace
+    url: https://shakthipalace.com
+  - name: Dr. Vibhu
+    url: https://drvibhu.com
+  - name: Bhaskar's Blog
+    url: https://bhaskararaman.com
+
+status-website:
+  theme: night
+  cname: upptime.kedi.dev
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/ananthb/upptime/master/assets/icon.png
+  name: UPMON
+  introTitle: >
+    Ananth's Uptime Monitor
+  navbar:
+    - title: Status
+      href: /
+    - title: Issues
+      href: https://github.com/ananthb/upptime/issues
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
