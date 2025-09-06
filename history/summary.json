@@ -4,7 +4,7 @@
     "url": "https://home.tail42937.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/home.tail42937.ts.net.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 1463,
     "timeYear": 1463,
     "dailyMinutesDown": {
+      "2025-09-06": 0,
       "2025-09-02": 23,
       "2025-08-30": 23,
       "2025-08-27": 23,
